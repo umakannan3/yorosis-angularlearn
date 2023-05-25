@@ -1,3 +1,3 @@
-var a = 1;
-var b = 2;
+var a = 10;
+var b = 20;
 console.log(a+b);
